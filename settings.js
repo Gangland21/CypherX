@@ -1,13 +1,13 @@
 //-------------------[ BOT SETTINGS ]------------------// 
 
 // @project_name : CypherX
-// @author : TYLOR
+// @author : Cyrus
 // @youtube : https://www.youtube.com/@heyits_tylor
-// @instagram : heyits_tylor
+// @instagram : the_one_veli
 // @telegram : t.me/heyits_tylor
 // @github : Dark-Xploit
 // @tiktok : heyits_tylor
-// @whatsapp : +254754783972
+// @whatsapp : +260771798128
 
 //----------------------[ CYPHER-X ]----------------------//
 
@@ -18,7 +18,7 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 //--------------------[ SESSION ID ]----------------------//
 
-global.SESSION_ID = process.env.SESSION_ID || 'XPLOADER-BOT:~m7IAEDiQ#PNL7NQvuG0O_uGSE1b3wtpbeMQ2qfgY14JrkfKsLty8' 
+global.SESSION_ID = process.env.SESSION_ID || 'XPLOADER-BOT:~SzwX0ZxY#tKw7t2rJphGRXJ7hd8kQjansAAZj3DE2sAReXoNvt5o' 
 //Enter your Xploader session id here; must start with XPLOADER-BOT:~
 
 //--------------------[ BOT NAME ]----------------------//
