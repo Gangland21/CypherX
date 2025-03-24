@@ -1,13 +1,13 @@
 //-------------------[ BOT SETTINGS ]------------------// 
 
 // @project_name : CypherX
-// @author : TYLOR
+// @author : Cyrus
 // @youtube : https://www.youtube.com/@heyits_tylor
-// @instagram : heyits_tylor
+// @instagram : The_one_veli
 // @telegram : t.me/heyits_tylor
 // @github : Dark-Xploit
 // @tiktok : heyits_tylor
-// @whatsapp : +254754783972
+// @whatsapp : 260771798128
 
 //----------------------[ CYPHER-X ]----------------------//
 
@@ -29,22 +29,22 @@ global.botname = process.env.BOT_NAME || 'CypherX'
 
 //-----------------[ OWNER NUMBER ]------------------//
 
-global.ownernumber = process.env.OWNER_NUMBER || '254754783972' 
+global.ownernumber = process.env.OWNER_NUMBER || '260771798128' 
 // Your personal contact number. If you want to call Tylor, this is the number. 👀
 
 //-----------------[ OWNER NAME ]------------------//
 
-global.ownername = process.env.OWNER_NAME || 'Tylor' 
+global.ownername = process.env.OWNER_NAME || '☠︎︎ꨄ︎❦︎•Cyrus•❦︎ꨄ︎☠︎︎!' 
 // Set your name, currently it's the mastermind's. The one and only... Tylor. (Don't ask how I got here, it's a mystery.)
 
 //------------[ STICKER PACKNAME ]-----------------//
 
-global.packname = process.env.STICKER_PACK_NAME || "Cypher" 
+global.packname = process.env.STICKER_PACK_NAME || "☠︎︎ꨄ︎❦︎•Cyrus•❦︎ꨄ︎☠︎︎!" 
 // Time to decide the name for your sticker pack. This will appear every time you create a sticker. "Cypher" is the default because... well, why not?
 
 //--------------[ STICKER AUTHOR NAME ]------------//
 
-global.author = process.env.STICKER_AUTHOR_NAME || "X" 
+global.author = process.env.STICKER_AUTHOR_NAME || "Cyrus" 
 // Who's the artist behind those epic stickers? You, of course! Unless you're just using the default name "X" – mystery vibes!
 
 //----------------------[ TIMEZONE ]--------------------//
@@ -76,9 +76,9 @@ global.mess = {
   admin: '🔒 *Admin powers required!* Make me an admin, and I’ll unlock this magic for you.',
   notadmin: '⚠️ *Not Quite There Yet!* You gotta be the admin to wield this feature. Better start begging!',
 //new
-  error: '🤖 *Oopsie!* Something went wrong. Maybe try again? Or blame the developer. Your call!',
-  wait: '⏳ *Hold your horses!* I’m working on it... (No, seriously, I’m not slacking off.)',
-  nolink: '🔗 *Link not found!* Did you forget to include it, or are you just testing me?',
+  error: '🤖 *shiiiit!* Something went wrong. Maybe try again? Or blame the developer. Your call!',
+  wait: '⏳ *Hold your hormones!* I’m working on it... (No, seriously, I’m not slacking off.)',
+  nolink: '🔗 *fucking Link not found!* Did you forget to include it, or are you just testing me?',
   notext: '🤔 *No query detected!* Did you forget to include it, or are you just testing me?',
   ban: '🚨 *Banned!* You’ve been banished to the shadow realm. (Don’t worry, it’s not permanent... probably.)',
   unban: '🎈 *Unbanned!* Welcome back! We missed you... kind of.'
