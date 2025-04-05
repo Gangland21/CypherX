@@ -1,13 +1,13 @@
 //-------------------[ BOT SETTINGS ]------------------// 
 
-// @project_name : CypherX
-// @author : TYLOR
+// @project_name : cyrus
+// @author : cyrus
 // @youtube : https://www.youtube.com/@heyits_tylor
 // @instagram : heyits_tylor
 // @telegram : t.me/heyits_tylor
 // @github : Dark-Xploit
 // @tiktok : heyits_tylor
-// @whatsapp : +254754783972
+// @whatsapp : +260771798128
 
 //----------------------[ CYPHER-X ]----------------------//
 
@@ -19,27 +19,27 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 //--------------------[ SESSION ID ]----------------------//
 
-global.SESSION_ID = process.env.SESSION_ID || '' 
+global.SESSION_ID = process.env.SESSION_ID || 'XPLOADER-BOT:~TiQAXRjT#_xuXPw2FVorfJE2uxo4nxt3X_ViGsskXF21V9gNzpXU' 
 // You know the drill. Put your CypherX session id here. Should look like: XPLOADER-BOT:~ (don't forget that, it's crucial!)
 
 //--------------------[ BOT NAME ]----------------------//
 
-global.botname = process.env.BOT_NAME || 'CypherX' 
+global.botname = process.env.BOT_NAME || 'MC md' 
 // Pick a name for the bot. Default is "CypherX" — but who doesn’t love a cool bot name?
 
 //-----------------[ OWNER NUMBER ]------------------//
 
-global.ownernumber = process.env.OWNER_NUMBER || '254754783972' 
+global.ownernumber = process.env.OWNER_NUMBER || '260771798128' 
 // Your personal contact number. If you want to call Tylor, this is the number. 👀
 
 //-----------------[ OWNER NAME ]------------------//
 
-global.ownername = process.env.OWNER_NAME || 'Tylor' 
+global.ownername = process.env.OWNER_NAME || '☠︎︎ꨄ︎❦︎•Cyrus•❦︎ꨄ︎☠︎︎!' 
 // Set your name, currently it's the mastermind's. The one and only... Tylor. (Don't ask how I got here, it's a mystery.)
 
 //------------[ STICKER PACKNAME ]-----------------//
 
-global.packname = process.env.STICKER_PACK_NAME || "Cypher" 
+global.packname = process.env.STICKER_PACK_NAME || "cyrus" 
 // Time to decide the name for your sticker pack. This will appear every time you create a sticker. "Cypher" is the default because... well, why not?
 
 //--------------[ STICKER AUTHOR NAME ]------------//
@@ -73,10 +73,10 @@ global.mess = {
   success: '🎉 *BOOM! Success!* CypherX is too cool for this world. We did it!',
   owner: '🚫 *Hold up!* This command is for the big boss only. You’re not the boss of me!',
   group: '👥 *Join the club!* This feature is exclusive to group chats!',
-  admin: '🔒 *Admin powers required!* Make me an admin, and I’ll unlock this magic for you.',
+  admin: '🔒 *Admin powers required ma nigga!* Make me an admin, and I’ll bloodclat this for you.',
   notadmin: '⚠️ *Not Quite There Yet!* You gotta be the admin to wield this feature. Better start begging!',
 //new
-  error: '🤖 *Oopsie!* Something went wrong. Maybe try again? Or blame the developer. Your call!',
+  error: '🤖 *Bomboclat!* Something went wrong. Maybe try again?. Your call!',
   wait: '⏳ *Hold your horses!* I’m working on it... (No, seriously, I’m not slacking off.)',
   nolink: '🔗 *Link not found!* Did you forget to include it, or are you just testing me?',
   notext: '🤔 *No query detected!* Did you forget to include it, or are you just testing me?',
